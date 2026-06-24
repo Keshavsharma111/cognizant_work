@@ -1,7 +1,8 @@
-package Design _Patterns _andPrinciples;
 
- //The Singleton Design Pattern ensures that a class has only one instance and provides a global access point to it.
+    //The Singleton Design Pattern ensures that a class has only one instance and provides a global access point to it.
 //  It is used when we want centralized control of resources, such as managing database connections, configuration settings or logging.
+
+
 import java.util.Scanner;
 
 class Singleton {
@@ -21,8 +22,7 @@ class Singleton {
         System.out.println("Singleton Object Created");
     }
 }
-
-public class Main {
+public class Implementing_the_Singleton_Pattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -44,3 +44,5 @@ public class Main {
     }
 }
   
+
+    
