@@ -21,6 +21,29 @@ WEEK1
 ├── PLSQLprogramming
 ```
 
+
+
+```
+WEEK2
+├── Spring Core and Maven
+│   ├── Exercise 1 Configuring a Basic Spring Application
+│   ├── Exercise 2 Implementing Dependency Injection
+│   ├── Exercise 4 Creating and Configuring a Maven Project
+│   └── LibraryManagementExercise4
+│
+├── Spring Data JPA with Spring Boot AND Hibernate
+│   ├── Complete till Hands on Exercise 7 (orm-learn)
+│   ├── Spring Data JPA - Quick Example (orm-learn)
+│   ├── Spring-data-jpa-handson_2
+│   └── Difference between JPA, Hibernate and Spring Data JPA.docx
+│
+├── SS 6 AND 7 spring-data-jpa-handson.png
+├── SSHands on 7.png
+├── SSspring_data_Jpa_handson_SQL.png
+├── SSspring_data_jpa_handson2.png
+├─all  Screenshot
+
+```
 ## 💡 About
 
 This repository is maintained to organize weekly assignments, practice programs, and learning progress throughout the training.
