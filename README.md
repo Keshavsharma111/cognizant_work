@@ -44,6 +44,18 @@ WEEK2
 ├─all  Screenshot
 
 ```
+
+```
+WEEK3
+├── Spring REST using Spring Boot 3
+│   └── Create a Spring Web Project using Maven
+│       └── spring-learn
+```
+
+
+
+
+
 ## 💡 About
 
 This repository is maintained to organize weekly assignments, practice programs, and learning progress throughout the training.
