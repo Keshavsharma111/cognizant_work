@@ -1,0 +1,4 @@
+package com.cognizant.springlearn.util;
+
+public class JwtUtil {
+}
