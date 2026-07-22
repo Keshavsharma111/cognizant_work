@@ -26,45 +26,51 @@ WEEK1
 ```
 WEEK2
 ├── Spring Core and Maven
-│   ├── Exercise 1 Configuring a Basic Spring Application
-│   ├── Exercise 2 Implementing Dependency Injection
-│   ├── Exercise 4 Creating and Configuring a Maven Project
+│   ├── Exercise 1 - Configuring a Basic Spring Application
+│   ├── Exercise 2 - Implementing Dependency Injection
+│   ├── Exercise 4 - Creating and Configuring a Maven Project
 │   └── LibraryManagementExercise4
 │
-├── Spring Data JPA with Spring Boot AND Hibernate
-│   ├── Complete till Hands on Exercise 7 (orm-learn)
+├── Spring Data JPA with Spring Boot and Hibernate
+│   ├── Complete till Hands-on Exercise 7 (orm-learn)
 │   ├── Spring Data JPA - Quick Example (orm-learn)
-│   ├── Spring-data-jpa-handson_2
+│   ├── Spring Data JPA Hands-on 2
 │   └── Difference between JPA, Hibernate and Spring Data JPA.docx
 │
-├── SS 6 AND 7 spring-data-jpa-handson.png
-├── SSHands on 7.png
-├── SSspring_data_Jpa_handson_SQL.png
-├── SSspring_data_jpa_handson2.png
-├─all  Screenshot
+├── SS - Spring Data JPA Hands-on 6 & 7.png
+├── SS - Hands-on 7.png
+├── SS - Spring Data JPA SQL Output.png
+├── SS - Spring Data JPA Hands-on 2.png
+└── All Screenshots
 
-```
-
-```
 WEEK3
 ├── Spring REST using Spring Boot 3
 │   └── Create a Spring Web Project using Maven
 │       └── spring-learn
-```
+└── All Screenshots
 
-
-```
 WEEK4
 ├── Microservices with Spring Boot
 │   ├── account
 │   └── Loan
-├── SS-Creating Microservices for Account.png
-└── SS-Loan Microservice Output.png
+├── SS - Creating Microservices for Account.png
+├── SS - Loan Microservice Output.png
+└── All Screenshots
 
-
-
-```
-
+WEEK5
+├── React
+│   ├── 1_ReactJS-HOL
+│   ├── 2_ReactJS-HOL
+│   ├── 3_ReactJS-HOL
+│   ├── 4_ReactJS-HOL
+│   ├── 5_ReactJS-HOL
+│   ├── 6_ReactJS-HOL
+│   ├── 9_ReactJS-HOL
+│   ├── 10_ReactJS-HOL
+│   ├── 11_ReactJS-HOL
+│   ├── 12_ReactJS-HOL
+│   └── 13_ReactJS-HOL
+└── All ReactJS Hands-on Screenshots
 
 
 ## 💡 About
