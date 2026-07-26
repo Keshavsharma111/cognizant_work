@@ -72,10 +72,30 @@ WEEK5
 │   └── 13_ReactJS-HOL
 └── All ReactJS Hands-on Screenshots
 
+└── WEEK6
+    └── Git & CI/CD Hands-on
+        ├── 1GIT-HOL
+        ├── 2GIT-HOL
+        ├── 3GIT-HOL
+        ├── 4GIT-HOL
+        └── 5GIT-HOL
+```
+
+---
+
 
 ## 💡 About
 
 This repository is maintained to organize weekly assignments, practice programs, and learning progress throughout the training.
 
 ---
-**Author:** Keshav Sharma
+## Author
+
+**Keshav Sharma**
+
+B.Tech CSE Student  
+GLA University, Mathura
+
+GitHub:
+https://github.com/Keshavsharma111
+
