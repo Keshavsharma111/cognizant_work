@@ -81,6 +81,17 @@ WEEK5
         └── 5GIT-HOL
 ```
 
+--
+
+## Completed Modules
+
+- ✅ Week 1 – Design Patterns and Principles, Data structures and Algorithms, PL/SQL Programming, Test driven development and Logging framework
+- ✅ Week 2 –Spring Core and Maven, Spring Data JPA with Spring Boot, Hibernate
+- ✅ Week 3 – Spring REST using Spring Boot 3
+- ✅ Week 4 – Microservices with Spring Boot 3 & Spring Cloud
+- ✅ Week 5 – ReactJS Hands-on
+- ✅ Week 6 – Git & CI/CD Hands-on
+
 ---
 
 
