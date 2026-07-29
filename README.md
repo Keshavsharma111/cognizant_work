@@ -79,6 +79,9 @@ WEEK5
         ├── 3GIT-HOL
         ├── 4GIT-HOL
         └── 5GIT-HOL
+
+└── WEEK7
+    └── DevOps, Docker, Cloud and GenAI Fundamentals
 ```
 
 --
@@ -91,6 +94,7 @@ WEEK5
 - ✅ Week 4 – Microservices with Spring Boot 3 & Spring Cloud
 - ✅ Week 5 – ReactJS Hands-on
 - ✅ Week 6 – Git & CI/CD Hands-on
+- ✅ Week 7 – DevOps, Docker, Cloud, and Generative AI (GenAI) Fundamentals
 
 ---
 
