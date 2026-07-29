@@ -72,10 +72,41 @@ WEEK5
 │   └── 13_ReactJS-HOL
 └── All ReactJS Hands-on Screenshots
 
+└── WEEK6
+    └── Git & CI/CD Hands-on
+        ├── 1GIT-HOL
+        ├── 2GIT-HOL
+        ├── 3GIT-HOL
+        ├── 4GIT-HOL
+        └── 5GIT-HOL
+```
+
+--
+
+## Completed Modules
+
+- ✅ Week 1 – Design Patterns and Principles, Data structures and Algorithms, PL/SQL Programming, Test driven development and Logging framework
+- ✅ Week 2 –Spring Core and Maven, Spring Data JPA with Spring Boot, Hibernate
+- ✅ Week 3 – Spring REST using Spring Boot 3
+- ✅ Week 4 – Microservices with Spring Boot 3 & Spring Cloud
+- ✅ Week 5 – ReactJS Hands-on
+- ✅ Week 6 – Git & CI/CD Hands-on
+
+---
+
 
 ## 💡 About
 
 This repository is maintained to organize weekly assignments, practice programs, and learning progress throughout the training.
 
 ---
-**Author:** Keshav Sharma
+## Author
+
+**Keshav Sharma**
+
+B.Tech CSE Student  
+GLA University, Mathura
+
+GitHub:
+https://github.com/Keshavsharma111
+
